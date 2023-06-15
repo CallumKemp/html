@@ -1,0 +1,11 @@
+<html>
+<h1> <center> Eddie </center></h1>
+<a href="index.html"> home </a>
+<br>
+<a href="trainers.html"> Back </a>
+<br>
+<br>
+<br>
+
+<b>name</b>:Eddie <br>
+<b> Subjects</b>:HTML, Java, Python, CSS
